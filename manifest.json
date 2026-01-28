@@ -1,0 +1,20 @@
+{
+  "name": "VKSU Student Assistant",
+  "short_name": "VKSU Bot",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "https://vksu.ac.in/wp-content/uploads/2021/01/vksu-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://vksu.ac.in/wp-content/uploads/2021/01/vksu-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
